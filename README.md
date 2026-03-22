@@ -1,9 +1,7 @@
 # Quantum-Classical Hybrid TSP: Uttarakhand Tourism Route Optimisation
 
-Companion code for the paper:
 "Quantum-Classical Hybrid Approaches to the Travelling Salesman Problem:
 A Comparative Study on Uttarakhand Tourism Route Optimisation"
-Aditya Singh, Rajiv Pandey, Pooja Srivastava — Amity University UP, Lucknow
 
 ## Requirements
 Python 3.10+

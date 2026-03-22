@@ -1,0 +1,7 @@
+Noise Level (p),Device,Seed 42 (km),Seed 55 (km),Seed 77 (km),Seed 101 (km),Mean (km),Std Dev (km),Approx Ratio vs Noiseless AQP
+0.000,lightning.qubit,855.9,926.7,803.5,852.6,859.7,43.9,0.974
+0.001,default.mixed,855.9,828.6,940.6,803.5,857.1,51.6,0.971
+0.005,default.mixed,855.9,828.6,803.5,855.9,836.0,21.8,0.947
+0.010,default.mixed,855.9,926.7,852.6,806.8,860.5,42.9,0.975
+0.020,default.mixed,831.9,926.7,831.9,803.5,848.5,46.6,0.961
+0.050,default.mixed,916.1,828.6,834.5,871.5,862.7,35.0,0.977

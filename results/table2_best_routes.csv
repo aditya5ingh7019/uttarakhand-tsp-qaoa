@@ -1,0 +1,6 @@
+Algorithm,Distance (km),Start City,Stop 1,Stop 2,Stop 3,Stop 4,Stop 5,Stop 6,Stop 7,Stop 8,Stop 9,Stop 10,Stop 11,Stop 12,Stop 13,Stop 14,Stop 15,Stop 16,Stop 17,Stop 18,Stop 19,Stop 20,Stop 21,Stop 22
+Greedy NN,820.84,Pauri,Lansdowne,Jim Corbett,Ramnagar,Nainital,Haldwani,Almora,Binsar,Bageshwar,Kausani,Pithoragarh,Dharchula,Munsyari,Joshimath,Chamoli,Chopta,Kedarnath,Gangotri,Mussoorie,Dehradun,Rishikesh,Haridwar,Pauri (return)
+2-Opt,806.84,Pauri,Lansdowne,Jim Corbett,Ramnagar,Haldwani,Nainital,Almora,Kausani,Bageshwar,Binsar,Pithoragarh,Dharchula,Munsyari,Joshimath,Chamoli,Chopta,Kedarnath,Gangotri,Mussoorie,Dehradun,Haridwar,Rishikesh,Pauri (return)
+3-Opt,806.84,Pauri,Lansdowne,Jim Corbett,Ramnagar,Haldwani,Nainital,Almora,Kausani,Bageshwar,Binsar,Pithoragarh,Dharchula,Munsyari,Joshimath,Chamoli,Chopta,Kedarnath,Gangotri,Mussoorie,Dehradun,Haridwar,Rishikesh,Pauri (return)
+Hybrid (QAOA+2-Opt),828.55,Pauri,Gangotri,Kedarnath,Chopta,Chamoli,Joshimath,Munsyari,Dharchula,Pithoragarh,Bageshwar,Kausani,Binsar,Almora,Nainital,Haldwani,Ramnagar,Jim Corbett,Lansdowne,Haridwar,Rishikesh,Dehradun,Mussoorie,Pauri (return)
+AQP (quantum+3-Opt),882.95,Bageshwar,Kausani,Lansdowne,Pauri,Chopta,Chamoli,Joshimath,Kedarnath,Gangotri,Mussoorie,Dehradun,Rishikesh,Haridwar,Jim Corbett,Ramnagar,Haldwani,Nainital,Almora,Binsar,Pithoragarh,Dharchula,Munsyari,Bageshwar (return)

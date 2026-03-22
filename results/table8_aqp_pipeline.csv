@@ -1,0 +1,7 @@
+Stage,Distance (km),Description
+QAOA on 8-city quantum subset,605.02,Real PennyLane circuit — exact statevector simulation
+Greedy NN on 14 classical cities,N/A,Best of 14 starting seeds
+After merge_tours(),1204.45,Optimal splice of quantum and classical sub-tours
+After 2-Opt polish,N/A,Crossing removal pass
+After 3-Opt polish,882.95,Final refined result
+Total pipeline time (ms),269901.1,~4.5 minutes — dominated by PennyLane optimisation

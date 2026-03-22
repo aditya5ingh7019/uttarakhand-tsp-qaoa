@@ -1,0 +1,6 @@
+p (layers),Distance (km),Time (ms),Simulation Type
+1,1653.60,732.5,Classical fallback (n=22 > 8 qubit limit)
+2,1653.60,1271.5,Classical fallback (n=22 > 8 qubit limit)
+3,1653.60,1724.5,Classical fallback (n=22 > 8 qubit limit)
+4,1653.60,2317.9,Classical fallback (n=22 > 8 qubit limit)
+5,1653.60,2711.4,Classical fallback (n=22 > 8 qubit limit)

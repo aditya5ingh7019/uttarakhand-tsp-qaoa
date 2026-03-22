@@ -1,0 +1,23 @@
+City,Region,Hardness Category,Assigned To,Solver
+Kausani,Kumaon,High,Quantum subset,QAOA (PennyLane)
+Pauri,Garhwal,High,Quantum subset,QAOA (PennyLane)
+Lansdowne,Garhwal,High,Quantum subset,QAOA (PennyLane)
+Chamoli,Garhwal,High,Quantum subset,QAOA (PennyLane)
+Ramnagar,Kumaon,High,Quantum subset,QAOA (PennyLane)
+Almora,Kumaon,High,Quantum subset,QAOA (PennyLane)
+Joshimath,Garhwal,High,Quantum subset,QAOA (PennyLane)
+Nainital,Kumaon,High,Quantum subset,QAOA (PennyLane)
+Dehradun,Garhwal,Low,Classical subset,Greedy NN
+Mussoorie,Garhwal,Low,Classical subset,Greedy NN
+Rishikesh,Garhwal,Low,Classical subset,Greedy NN
+Haridwar,Garhwal,Low,Classical subset,Greedy NN
+Kedarnath,Garhwal,Low,Classical subset,Greedy NN
+Gangotri,Garhwal,Low,Classical subset,Greedy NN
+Chopta,Garhwal,Low,Classical subset,Greedy NN
+Pithoragarh,Kumaon,Low,Classical subset,Greedy NN
+Dharchula,Kumaon,Low,Classical subset,Greedy NN
+Munsyari,Kumaon,Low,Classical subset,Greedy NN
+Bageshwar,Kumaon,Low,Classical subset,Greedy NN
+Binsar,Kumaon,Low,Classical subset,Greedy NN
+Haldwani,Kumaon,Low,Classical subset,Greedy NN
+Jim Corbett,Kumaon,Low,Classical subset,Greedy NN

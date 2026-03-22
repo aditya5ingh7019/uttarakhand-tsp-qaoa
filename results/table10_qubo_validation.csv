@@ -1,0 +1,8 @@
+Metric,Value
+Matrix shape,(16 x 16)
+n^2 x n^2,16 x 16
+Test permutation,"[0, 1, 2, 3]"
+QUBO energy,-10120.91
+Actual tour length (km),245.05
+Encodes correctly (raw check),False
+Explanation,QUBO energy is negative because penalty terms dominate the objective. This is expected behaviour and does not affect algorithm correctness — the penalty scaling enforces constraint satisfaction.

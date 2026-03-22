@@ -1,7 +1,6 @@
 # Quantum-Classical Hybrid TSP: Uttarakhand Tourism Route Optimisation
 
-"Quantum-Classical Hybrid Approaches to the Travelling Salesman Problem:
-A Comparative Study on Uttarakhand Tourism Route Optimisation"
+Research code for a comparative study of quantum-classical hybrid TSP approaches applied to Uttarakhand tourism routing. Developed at Amity University Uttar Pradesh, Lucknow.
 
 ## Requirements
 Python 3.10+

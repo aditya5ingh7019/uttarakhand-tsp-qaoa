@@ -28,7 +28,7 @@ pip install pennylane pennylane-lightning numpy networkx pandas matplotlib seabo
 ## Running
 
 ```bash
-python uttarakhand_tsp.py
+hybrid_quantum_classical_tsp_22_cities.ipynb.py
 ```
 
 All outputs are saved to the directory defined by `CUSTOM_OUTPUT_DIR` at the top of the script (default: `C:\Users\Aditya Singh\uttarakhand_multi_regime_outputs`). Change this path before running on a different machine.

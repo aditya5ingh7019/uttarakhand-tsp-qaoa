@@ -132,11 +132,11 @@ Change `PRESET` at the top of the script:
 | Scalability (n = 5–22) | ~10 minutes |
 | Statistical robustness (30 trials) | ~8 minutes |
 | QAOA depth analysis (p = 1–5) | ~2 minutes |
-| Noise sensitivity (6 levels × 4 seeds) | ~35–40 minutes |
-| Qubit cap analysis (3 caps × 3 seeds) | ~15 minutes |
-| **Total** | **~75–85 minutes** |
+| Noise sensitivity (6 levels × 4 seeds) | **~60–90 minutes** |
+| Qubit cap analysis (3 caps × 3 seeds) | **~60–90 minutes** |
+| **Total** | **~3-4 hours** |
 
-The noise sensitivity analysis dominates total runtime because `default.mixed` density-matrix simulation is substantially slower than `lightning.qubit` statevector simulation.
+**Note:** Actual runtime depends heavily on CPU performance. The noise sensitivity and qubit cap analyses dominate total runtime because `default.mixed` density-matrix simulation is substantially slower than `lightning.qubit` statevector simulation. In practice, total runtime may exceed 5 hours on older or resource-constrained hardware.
 
 ## Reproducibility
 

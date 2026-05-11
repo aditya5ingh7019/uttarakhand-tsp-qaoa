@@ -1,0 +1,58 @@
+{
+  "noise_sensitivity": [
+    {
+      "noise_level": 0.0,
+      "mean_cost": 859.6996784199033,
+      "std_cost": 43.91197562749372,
+      "approx_ratio": 0.973669036401043,
+      "device": "lightning.qubit"
+    },
+    {
+      "noise_level": 0.001,
+      "mean_cost": 857.1456280053835,
+      "std_cost": 51.616479919901664,
+      "approx_ratio": 0.9707763985782677,
+      "device": "default.mixed"
+    },
+    {
+      "noise_level": 0.005,
+      "mean_cost": 835.9839143910874,
+      "std_cost": 21.8271784132225,
+      "approx_ratio": 0.9468093019041165,
+      "device": "default.mixed"
+    },
+    {
+      "noise_level": 0.01,
+      "mean_cost": 860.5312694239182,
+      "std_cost": 42.85889821966906,
+      "approx_ratio": 0.9746108704296972,
+      "device": "default.mixed"
+    },
+    {
+      "noise_level": 0.02,
+      "mean_cost": 848.4986983844175,
+      "std_cost": 46.62294182604285,
+      "approx_ratio": 0.9609831558410505,
+      "device": "default.mixed"
+    },
+    {
+      "noise_level": 0.05,
+      "mean_cost": 862.6836696862027,
+      "std_cost": 34.97790871780083,
+      "approx_ratio": 0.977048611820016,
+      "device": "default.mixed"
+    }
+  ],
+  "noiseless_aqp_dist": 882.9485649431733,
+  "quantum_subset": [
+    "Kausani",
+    "Pauri",
+    "Lansdowne",
+    "Chamoli",
+    "Ramnagar",
+    "Almora",
+    "Joshimath",
+    "Nainital"
+  ],
+  "n_seeds_per_level": 4
+}

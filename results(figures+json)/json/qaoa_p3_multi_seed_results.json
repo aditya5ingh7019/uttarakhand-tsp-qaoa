@@ -1,0 +1,102 @@
+{
+  "p_layers": 3,
+  "steps_per_layer": 150,
+  "seeds_tested": [
+    42,
+    123,
+    456,
+    789,
+    999
+  ],
+  "results": [
+    {
+      "seed": 42,
+      "dist": 568.3471623684317,
+      "time_ms": 237864.64860010892,
+      "evals": 3167,
+      "tour": [
+        "Kausani",
+        "Joshimath",
+        "Chamoli",
+        "Lansdowne",
+        "Nainital",
+        "Ramnagar",
+        "Almora",
+        "Pauri"
+      ]
+    },
+    {
+      "seed": 123,
+      "dist": 710.9882726009602,
+      "time_ms": 238960.10779996868,
+      "evals": 3167,
+      "tour": [
+        "Chamoli",
+        "Lansdowne",
+        "Kausani",
+        "Joshimath",
+        "Almora",
+        "Pauri",
+        "Ramnagar",
+        "Nainital"
+      ]
+    },
+    {
+      "seed": 456,
+      "dist": 523.7647069041084,
+      "time_ms": 236712.53889997024,
+      "evals": 3167,
+      "tour": [
+        "Kausani",
+        "Almora",
+        "Lansdowne",
+        "Nainital",
+        "Ramnagar",
+        "Pauri",
+        "Joshimath",
+        "Chamoli"
+      ]
+    },
+    {
+      "seed": 789,
+      "dist": 682.2613636597143,
+      "time_ms": 238177.40819999017,
+      "evals": 3167,
+      "tour": [
+        "Ramnagar",
+        "Almora",
+        "Pauri",
+        "Chamoli",
+        "Lansdowne",
+        "Nainital",
+        "Joshimath",
+        "Kausani"
+      ]
+    },
+    {
+      "seed": 999,
+      "dist": 675.24353170553,
+      "time_ms": 237177.11429996416,
+      "evals": 3167,
+      "tour": [
+        "Almora",
+        "Joshimath",
+        "Kausani",
+        "Pauri",
+        "Ramnagar",
+        "Nainital",
+        "Lansdowne",
+        "Chamoli"
+      ]
+    }
+  ],
+  "statistics": {
+    "mean": 632.121007447749,
+    "std": 72.66614633497106,
+    "min": 523.7647069041084,
+    "max": 710.9882726009602,
+    "median": 675.24353170553
+  },
+  "original_result": 823.7833057433072,
+  "recommended_value": 523.7647069041084
+}

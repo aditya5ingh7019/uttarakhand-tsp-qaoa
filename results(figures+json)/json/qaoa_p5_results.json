@@ -1,0 +1,16 @@
+{
+  "p": 5,
+  "dist": 504.69045235708984,
+  "time_ms": 681220.6974029541,
+  "evals": 5267,
+  "tour": [
+    "Ramnagar",
+    "Nainital",
+    "Joshimath",
+    "Lansdowne",
+    "Kausani",
+    "Pauri",
+    "Almora",
+    "Chamoli"
+  ]
+}

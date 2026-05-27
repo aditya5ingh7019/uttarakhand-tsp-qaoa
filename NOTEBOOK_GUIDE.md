@@ -23,7 +23,7 @@ These cells were used during algorithm development to quickly check that the pip
 | Cell | What it does |
 |---|---|
 | Cell 1 | Imports, city coordinates, distance matrix, all algorithm definitions (Greedy, 2-Opt, 3-Opt, SA, QAOA, Hybrid, AQP), FAST preset run, saves `results.json` |
-| Cells 2–6 | Intermediate figure drafts, route visualisations, preliminary convergence checks — all exploratory |
+| Cells 2–6 | Intermediate figure drafts, route visualisations, VQE variant, preliminary convergence checks — all exploratory |
 
 ---
 
@@ -33,17 +33,17 @@ Starting from Cell 7, the notebook switches to the QUALITY preset (`ensemble_siz
 
 **All numbers in the paper come from this phase.**
 
-| Cell range | What it does | Paper section |
-|---|---|---|
-| Cell 7 | Full QUALITY preset run — Greedy, 2-Opt, 3-Opt, SA, QAOA, Hybrid, AQP on all 22 cities | Tables 6–11 |
-| Subsequent cells | Scalability experiment (n=5..22 cities) | Fig. 8 |
-| Subsequent cells | Statistical robustness — 30 Monte Carlo trials | Table 10, Fig. 9 |
-| Subsequent cells | Multi-regime AQP (4-city and 8-city subsets) | Table 11 |
-| Subsequent cells | QAOA circuit depth analysis p=1..4 | Table 12, Fig. 10 |
-| Subsequent cells | p=5 QAOA run (saved to `qaoa_p5_results.json`) | Table 12, Fig. 10 |
-| Subsequent cells | Noise sensitivity analysis (6 noise levels) | Table 13 |
-| Subsequent cells | Qubit cap analysis (N_Q = 4, 6, 8) | Table 14 |
-| Final cells | Figure regeneration (journal-formatted versions of Figs. 1–12) | All figures |
+| Cell range | What it does | 
+|---|---|
+| Cell 7 | Full QUALITY preset run — Greedy, 2-Opt, 3-Opt, SA, QAOA, Hybrid, AQP on all 22 cities | 
+| Subsequent cells | Recreating All Figures| 
+| Subsequent cells | Available keys in results.json | 
+| Subsequent cells | Running QAOA Circuit Depth p=5 on 8-qubit subset | 
+| Subsequent cells | [Fig 10] Recreated with p=5 included | 
+| Subsequent cells | Improvement Analysis | 
+| Subsequent cells | Re-running QAOA p=3 with Multiple Random Seeds | 
+| Subsequent cells | COMPLETE QAOA CIRCUIT DEPTH ANALYSIS (p=1 to 5) | 
+| Subsequent cells | Correcting Figures | 
 
 ---
 

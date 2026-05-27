@@ -1,0 +1,6 @@
+Algorithm,Mean_km,Std_km,Min_km,Max_km
+Greedy NN,820.84,0.0,820.84,820.84
+2-Opt,806.84,0.0,806.84,806.84
+Simulated Annealing,841.97,27.74,803.51,952.1
+QAOA (p=3),1777.79,65.4,1602.75,1885.09
+Hybrid QAOA+2-Opt,828.55,0.0,828.55,828.55

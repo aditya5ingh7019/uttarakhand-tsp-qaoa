@@ -1,0 +1,8 @@
+Algorithm,Distance_km,vs_Greedy_pct,Time_ms
+Greedy NN,820.84,0.0,3.92
+2-Opt,806.84,1.7,0.82
+3-Opt,806.84,1.7,14.68
+Simulated Annealing,828.55,-0.9,546.47
+QAOA (p=3),1653.6,-101.5,2092.18
+Hybrid QAOA+2-Opt,828.55,-0.9,2564.86
+AQP-QAG,882.95,-7.6,460732.18

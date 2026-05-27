@@ -1,0 +1,3 @@
+,n_cities,aqp_dist,greedy_dist,twoopt_dist,time_ms,circuit_evals,approx_ratio
+4-city,4,128.6611,128.6611,128.6611,51909.8378,1817,1.0
+8-city,8,501.8133,549.3422,501.8133,407214.5693,4217,1.0

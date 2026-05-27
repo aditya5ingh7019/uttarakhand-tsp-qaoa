@@ -1,0 +1,7 @@
+noise_level,mean_cost,std_cost,approx_ratio,device
+0.0,859.6997,43.912,0.9737,lightning.qubit
+0.001,857.1456,51.6165,0.9708,default.mixed
+0.005,835.9839,21.8272,0.9468,default.mixed
+0.01,860.5313,42.8589,0.9746,default.mixed
+0.02,848.4987,46.6229,0.961,default.mixed
+0.05,862.6837,34.9779,0.977,default.mixed
